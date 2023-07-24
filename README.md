@@ -14,11 +14,11 @@
 
 ##Description
 
-Pong is just one of the greatest games all time! It was a challenge to create create this clone of pong and I can't beat the Computer.. I made it so hard that sscore a point its a victory!! Beeing such a fan of Attari this was a good project that kept me cativated the whole time and really see whats under the hood and how we can make the game harder or easier! I spent a lot of hours playing and testing to get the best experience. However beeing this one of my first projects after a learned Javascript with online tutorials its still missing some features like have a start button.
+Pong is simply one of the greatest games of all time! It was a challenge to create this clone of Pong and I can't beat the computer. I made it so hard that if you score a point it is a win! Being such a fan of Attari, this was a good project that kept me busy all the time, really seeing what was under the hood and how we could make the game harder or easier! I spent a lot of hours playing and testing to get the best experience. However, as this is one of my first projects after learning Javascript with online tutorials, it still lacks some features like having a start button.
 
 ##Instructions
 
-If you clone this project, you will need
+If you are cloning this project, you will need
 
 1 - VsCode with live server extension.
 
@@ -26,11 +26,11 @@ If you clone this project, you will need
 
 3 - Move the paddle with your mouse. 
 
-4 - This is a non stop game!! ')
+4 - This is a non stop game! ')
 
 ##Features
 
-If ou wanna test your skills playing against an unbeatable Computer player please fell free to play and let me know the final score!! 
+Feel free to play and let me know the final score if you want to test your skills against an unbeatable computer player!
 
 ##Visuals
 
@@ -42,7 +42,7 @@ Next features:
 
 -Start button 
 
--High Scores
+-High scores
 
 ##Contributing
 
