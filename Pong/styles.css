@@ -1,0 +1,60 @@
+*, *::after, *::before {
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #C7F9CC;
+}
+
+.paddle {
+    --position: 50;
+    position: absolute;
+    background-color: #57CC99;
+    top: calc(var(--position) * 1vh);
+    transform: translateY(-50%);
+    width: 1vh;
+    height: 10vh;
+    border: .15vmin solid #38A3A5;
+}
+.paddle.left {
+    left: 1vw;
+}
+
+.paddle.right {
+    right: 1vw;
+}
+
+.ball {
+    --x: 50;
+    --y: 50;
+    position: absolute;
+    background-color: #38A3A5;
+    left: calc(var(--x) * 1vw);
+    top: calc(var(--y) * 1vh);
+    border-radius: 50%;
+    transform: translateY(-50%, 50%);
+    width: 2.5vh;
+    height: 2.5vh;
+}
+
+.score {
+    display: flex;
+    justify-content: center;
+    font-weight: bold;
+    font-size: 7vh;
+    color: #22577A;
+}
+
+.score >  * {
+    flex-grow: 1;
+    flex-basis: 0;
+    padding: 0 2vh;
+    margin: 1vh 0;
+    opacity: .5;
+}
+
+.score > :first-child {
+    text-align: right;
+    border-right: .5vh solid #22577A;
+}
+
