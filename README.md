@@ -1,6 +1,8 @@
 ##Pong JS 
 
-![image](https://github.com/G-don/CockTails-singlePageAplication/blob/main/cocktails/VISUALS/7.png)
+![image](https://github.com/G-don/PongJS/blob/main/VISUALS/1.png)
+![image](https://github.com/G-don/PongJS/blob/main/VISUALS/2.png)
+![image](https://github.com/G-don/PongJS/blob/main/VISUALS/3.png)
 
 ##TechStack
 
